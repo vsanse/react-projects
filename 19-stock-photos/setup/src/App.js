@@ -9,4 +9,6 @@ function App() {
   return <h3>stock photos starter</h3>
 }
 
+const UserDAta = () => {}
+
 export default App
