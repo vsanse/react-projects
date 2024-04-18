@@ -6,7 +6,7 @@ const mainUrl = `https://api.unsplash.com/photos/`
 const searchUrl = `https://api.unsplash.com/search/photos/`
 
 function App() {
-  return <h2>stock photos starter</h2>
+  return <h3>stock photos starter</h3>
 }
 
 export default App
