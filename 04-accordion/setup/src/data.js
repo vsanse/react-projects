@@ -27,4 +27,4 @@ const questions = [
 ];
 export default questions;
 
-export const blank = [];
+const blank = [];
