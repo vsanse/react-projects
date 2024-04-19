@@ -9,4 +9,7 @@ function App() {
   return <h3>stock photos starter</h3>
 }
 
+const UserDAta = () => {}
+const UserDataNew = () => {}
+
 export default App
